@@ -1,0 +1,26 @@
+{
+  "name": "goit-node.js-hw-01-contacts",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server",
+    "start:dev": "npx nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ISoRkAI/goit-node.js-hw-01-contacts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ISoRkAI/goit-node.js-hw-01-contacts/issues"
+  },
+  "homepage": "https://github.com/ISoRkAI/goit-node.js-hw-01-contacts#readme",
+  "dependencies": {
+    "commander": "^9.4.1",
+    "nodemon": "^2.0.20",
+    "shortid": "^2.2.16"
+  }
+}
